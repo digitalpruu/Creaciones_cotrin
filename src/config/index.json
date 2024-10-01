@@ -36,12 +36,12 @@
     "items": [
       {
         "title": "Productos",
-        "description": "Creaciones Cotrin se destaca en la confección de chaquetas en antifluido que combinan estilo y funcionalidad.",
+        "description": "Creaciones Cotrin se destaca en la confección de prendas para vestir para dama y caballero que combinan estilo y funcionalidad.",
         "img": "/assets/images/2.png"
       },
       {
         "title": "Nos define",
-        "description": "Diseñadas para ofrecer protección y comodidad, nuestras chaquetas son ideales para cualquier situación. Utilizamos materiales de alta calidad y técnicas de confección avanzadas para asegurar la durabilidad y el estilo de cada prenda.",
+        "description": "Diseñadas para ofrecer protección y comodidad, nuestras prendas son ideales para cualquier situación. Utilizamos materiales de alta calidad y técnicas de confección avanzadas para asegurar la durabilidad y el estilo de cada prenda.",
         "img": "/assets/images/logo.png"
       }
     ]
@@ -53,22 +53,22 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "3203904397- 8122079",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "OTILIACOTRINO@GMAIL.COM",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        "name": "Facebook",
+        "description": "MARIA OTILIA COTRINO",
+        "icon": "/assets/images/facebook.jpg"
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "MARIA OTILIA COTRINO",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
