@@ -20,7 +20,7 @@
   "mainHero": {
     "title": "Creaciones",
     "subtitle": "cotrin",
-    "description": "Chaquetas en antifluido de excelente calidad.",
+    "description": "Toda clase de ropa de excelente calidad.",
     "img": "/assets/images/1.png",
     "primaryAction": {
       "text": "Get started",
@@ -63,9 +63,9 @@
       },
       {
         "name": "Facebook",
-        "description": "MARIA OTILIA COTRINO",
+        "description": "Creaciones Cotrin",
         "icon": "/assets/images/facebook.jpg",
-        "url":""
+        "url":"https://www.facebook.com/profile.php?id=61565975102361&mibextid=ZbWKwL"
       }
     ]
   },
